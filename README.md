@@ -1,2 +1,1 @@
-# MyWebpages
- Website about me, learning basic HTML, CSS, JS
+my first try to make github pages
